@@ -4,8 +4,10 @@
 
 ## Table of Contents
 
-### [ARRAYS] (Dive in/Arrays/README_ARRAYS.MD)
-### [Bits] 
+[Arrays] (Dive in/Arrays/README_ARRAYS.MD)
+
+[Bits](Dive in/Bits/README_BITS.MD)
+
 ### [LinearDS]
 ### [Recursion]
 ### [Searching]
