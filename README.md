@@ -4,11 +4,14 @@
 
 ## Table of Contents
 
-[Arrays] (Dive in/Arrays/README_ARRAYS.MD)
+###   [Bits](Divein/Bits/README_BITS.MD)
+###  [Arrays](Divein/Arrays/README_ARRAYS.MD)
 
-[Bits](Dive in/Bits/README_BITS.MD)
+### [Searching](Divein/Searching/README_SEARCHING.MD)
 
-### [LinearDS]
-### [Recursion]
-### [Searching]
-### [Sorting]
+### [Recursion](Divein/Recursion/README_RECURSION.MD)
+### [LinearDS](Divein/Linear_DS/README_LINEARDS.MD)
+
+
+
+### [Sorting](Divein/Sorting/README_SORTING.MD)
